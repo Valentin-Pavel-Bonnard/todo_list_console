@@ -1,0 +1,28 @@
+{
+  "name": "todo_list_console",
+  "version": "1.0.0",
+  "description": "A simple todo list on console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valentin-Pavel-Bonnard/todo_list_console.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valentin-Pavel-Bonnard/todo_list_console/issues"
+  },
+  "homepage": "https://github.com/Valentin-Pavel-Bonnard/todo_list_console#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "typescript": "^3.5.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^7.3.1"
+  }
+}
